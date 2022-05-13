@@ -1,6 +1,6 @@
 # Fetch-Api
 using fetch method, json online and json local.
 
-![image](https://user-images.githubusercontent.com/90789950/168378249-dc2a626c-3a09-41db-9b5c-543332865a50.png)
-![image](https://user-images.githubusercontent.com/90789950/168378292-f89b4b6f-9e05-40d5-a886-1bd51049ba4c.png)
-![image](https://user-images.githubusercontent.com/90789950/168378317-c0a022ba-d405-4339-b993-7a9383947ebf.png)
+![image](https://user-images.githubusercontent.com/90789950/168379585-9e07d1eb-040f-4a41-bbc2-a5f67fca9a23.png)
+![image](https://user-images.githubusercontent.com/90789950/168379685-85edb51d-c6bf-4116-84e2-213555e00129.png)
+![image](https://user-images.githubusercontent.com/90789950/168379733-b6dbc9fc-bb63-4411-8444-dc50dc31e320.png)
